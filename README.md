@@ -1,7 +1,7 @@
 # Tiny-M_SSB_1010
 Smol Stealthburner Toolhead for Tiny-M
 
-<img src="Images/Tiny_m_SBB_1010.png" width="800">
+<img src="Images/Tiny-M_SBB_1010.png" width="800">
 
 # This repo is a combination of different mods to get the Smol Stealthburner working on the Tiny-M. 
 
@@ -32,3 +32,5 @@ Revo Voron mount was designed from Maverick's original Dragon mount. Desgined wi
 The fan shroud has wire routing for the hot end and part cooling fans. The SSB was designed with QD connects for the fans, but you can run the wires if you don't want the added expense. I mounted two Wago 221s on the back side of the fan shroud for ease of future maitenance.
 
 This toolhead **is shorter than the original Tiny-M V4 toolhead.** That means you must verify your Z axis leadscrew is long enough to raise the bed far enough for the nozzle to trigger the z endstop. Your leadscrew nut should also be mounted on the bottom of your nut mount on the bed carraige, instead of on top of the leadscrew nut mount like I had it before. Belted Z Tiny-M owners, you're in uncharted waters. Let me know how it goes.
+
+I'm using an extended X axis endstop as a left over from my previous toolhead. I've left in the CAD here as I've verified that the SSB triggers it correctly. The Original X-endstop may work with the SSB, but you will have to test it out yourself.
