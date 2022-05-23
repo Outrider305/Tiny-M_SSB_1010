@@ -1,7 +1,7 @@
 # Tiny-M_SSB_1010
 Smol Stealthburner Toolhead for Tiny-M
 
-<img src="Images/Tiny-M_SBB_1010.png" width="800">
+<img src="Images/Tiny-M_SSB_1010.png" width="800">
 
 # This repo is a combination of different mods to get the Smol Stealthburner working on the Tiny-M. 
 
