@@ -1,6 +1,8 @@
 # Tiny-M_SSB_1010
 Smol Stealthburner Toolhead for Tiny-M
 
+<img src="Images/Tiny_m_SBB_1010.png" width="800">
+
 # This repo is a combination of different mods to get the Smol Stealthburner working on the Tiny-M. 
 
 Original Smol Stealthburner 1010 by Maverick on the Doomcube Discord. <a href="https://discord.com/channels/825469421346226226/909858082841067591/951228478278230057"/> Direct link to post.</a> The 1010 version uses a 3010 hotend fan, instead of the common 3007 fan from the Voron 0.1 toolheads.
