@@ -3,7 +3,7 @@ Smol Stealthburner Toolhead for Tiny-M
 
 <img src="Images/Tiny-M_SSB_1010.png" width="800">
 
-# This repo is a combination of different mods to get the Smol Stealthburner working on the Tiny-M. 
+# This repo is a combination of different mods to adapt the Smol Stealthburner to the Tiny-M. 
 
 Original Smol Stealthburner 1010 by Maverick on the Doomcube Discord. <a href="https://discord.com/channels/825469421346226226/909858082841067591/951228478278230057"/> Direct link to post.</a> The 1010 version uses a 3010 hotend fan, instead of the common 3007 fan from the Voron 0.1 toolheads.
 
@@ -25,12 +25,12 @@ Tiny-M carriage is based on <a href="https://github.com/flyespresso/antpower/tre
 
 # Revo Voron Mount
 
-Revo Voron mount was designed from Maverick's original Dragon mount. Desgined with E3D's reference CAD available on their website.
+Revo Voron mount was modified from Maverick's original Dragon mount. Designed with E3D's Revo Voron reference CAD available on their website.
 
 # Assembly Notes
 
-The fan shroud has wire routing for the hot end and part cooling fans. The SSB was designed with QD connects for the fans, but you can run the wires if you don't want the added expense. I mounted two Wago 221s on the back side of the fan shroud for ease of future maitenance.
+The fan shroud has wire routing for the hot end and part cooling fans. The SSB was designed with QD elctrical connections for the fans, but you can just run the wires if you don't want the added expense. I mounted two Wago 221s on the back side of the fan shroud for ease of future maitenance.
 
-This toolhead **is shorter than the original Tiny-M V4 toolhead.** That means you must verify your Z axis leadscrew is long enough to raise the bed far enough for the nozzle to trigger the z endstop. Your leadscrew nut should also be mounted on the bottom of your nut mount on the bed carraige, instead of on top of the leadscrew nut mount like I had it before. Belted Z Tiny-M owners, you're in uncharted waters. Let me know how it goes.
+This toolhead **is shorter than the original Tiny-M V4 toolhead.** That means you must verify your Z axis leadscrew is long enough to raise the bed far enough for the nozzle to trigger the z endstop. Your leadscrew nut should also be mounted on the bottom of your leadscrew nut mount (on the bed carriage), instead of on top of the leadscrew nut mount (like I had it before). Belted Z Tiny-M owners, you're in uncharted waters. Let me know how it goes.
 
-I'm using an extended X axis endstop as a left over from my previous toolhead. I've left in the CAD here as I've verified that the SSB triggers it correctly. The Original X-endstop may work with the SSB, but you will have to test it out yourself.
+I'm using an extended X axis endstop as a left over from my previous toolhead. I've left in the CAD here as I've verified that the SSB carriage triggers it correctly. The Original X-endstop block may work with the SSB carriage, but you will have to test it out yourself.
