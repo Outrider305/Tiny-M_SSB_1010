@@ -13,7 +13,7 @@ I have printed the SSB 1010 to verify fitment of parts, but it has not actually 
 
 **Print and use at your own caution.**
 
-#Change Log
+# Change Log
 
 - **2022-11-08**
 	- Added Sherpa Extruder support for Dragon and Revo Voron Adapters.
