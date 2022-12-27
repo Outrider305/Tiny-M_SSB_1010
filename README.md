@@ -36,6 +36,6 @@ I'm using an extended X axis endstop as a left over from my previous toolhead. I
 ## Credits
 - <a href="https://discord.com/channels/825469421346226226/909858082841067591/951228478278230057"/> Original Smol Stealthburner 1010 by Maverick on the Doomcube Discord.</a> 
 - Tiny-M carriage is based on <a href="https://github.com/flyespresso/antpower/tree/main/SMOL%20Stealth%20Burner%20MGN9C%20V0%20Gantry%20Mod"> flypower's MGN9C Carriage mod for the SSB.</a>
-- < a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder"/> Sherpa Mini </a> and <a href="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder"/> Sherpa Micro </a> by Annex Engineering.
+- <a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder"/> Sherpa Mini </a> and <a href="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder"/> Sherpa Micro </a> by Annex Engineering.
 - <a href="https://e3d-online.zendesk.com/hc/en-us/articles/4444939320093-Revo-Voron-Reference-CAD"/> Revo Voron reference CAD </a> by E3D Online
 - Thanks to riccardoer on Discord for the Sherpa Micro adapter.
