@@ -3,14 +3,16 @@ Smol Stealthburner Toolhead for Tiny-M
 
 <img src="Images/Tiny-M_SSB_1010.png" width="800">
 
-## CAD undergoing updates for Sherpa Micro support. Old files were a mess. Will be reuploaded with new STLs when done. 
-
-
 ## Print and use at your own caution.
 
-I have printed the SSB 1010 to verify fitment of parts, but it has not actually extruded any filament yet. 
+I have printed the Revo Voron/LGX Lite version of SSB 1010 to verify fitment of parts, but I haven't printed anything with it yet. Other hotend and extruder combos are so far untested.
 
 ## Change Log
+
+- **12-30-2022**
+	- Cleaned up and combined separate CAD files.
+	- Reorganized STL directory
+	- Added hotend adapters for Sherpa-Micro and Orbiter V2 extruders.
 
 - **2022-11-08**
 	- Added Sherpa Extruder support for Dragon and Revo Voron Adapters.
@@ -23,6 +25,8 @@ I have printed the SSB 1010 to verify fitment of parts, but it has not actually 
 - 3010 hotend cooling fan
 - 30mm blower part cooling fans X2
 - 6x3 magnets x2
+- Hotend specific mounting screws (refer to your hotend specs)
+- M3x40mm screws x2
 
 
 ## Assembly Notes
